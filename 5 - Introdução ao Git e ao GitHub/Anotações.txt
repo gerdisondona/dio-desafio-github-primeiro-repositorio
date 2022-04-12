@@ -1,0 +1,1 @@
+O professor Otávio, falou sobre o Git e GitHub, apresentou o comandos básciso e o terminal git bash
